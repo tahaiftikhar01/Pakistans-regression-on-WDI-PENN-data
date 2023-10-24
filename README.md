@@ -1,5 +1,6 @@
 # Pakistans-regression-on-WDI-PENN-data
-The data was taken from World Bank's World Development Index and PENN World Table, it has been filtered for Pakistan and the missing values were imputed using Median
+The data was taken from World Bank's World Development Index(WDI file) and PENN World Table(pwt), it has been filtered for Pakistan and the missing values were imputed using Median
+All the other attached datasets were exported and then cleaned in excel for their missing values and imputation.
 
 I investigated Okun's Law in the context of Pakistan using empirical analysis. 
 I gathered and cleaned data from the Penn World Table and the World Development Indicators, 
