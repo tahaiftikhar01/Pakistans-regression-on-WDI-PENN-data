@@ -1,6 +1,16 @@
-# Pakistans-regression-on-WDI-PENN-data
+# Pakistans-regression-on-WDI-PENN-data(attached PDF contains all relevant charts & graphs)
+
 The data was taken from World Bank's World Development Index(WDI file) and PENN World Table(pwt), it has been filtered for Pakistan and the missing values were imputed using Median
 All the other attached datasets were exported and then cleaned in excel for their missing values and imputation.
+
+
+
+
+
+
+
+
+The code is attached below:
 
 import pandas as pd
 
